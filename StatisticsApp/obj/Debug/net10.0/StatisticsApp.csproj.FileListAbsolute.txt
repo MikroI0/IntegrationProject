@@ -1,0 +1,17 @@
+C:\Users\motov\OneDrive\Документы\IntegrationProject\StatisticsApp\bin\Debug\net10.0\StatisticsApp.exe
+C:\Users\motov\OneDrive\Документы\IntegrationProject\StatisticsApp\bin\Debug\net10.0\StatisticsApp.deps.json
+C:\Users\motov\OneDrive\Документы\IntegrationProject\StatisticsApp\bin\Debug\net10.0\StatisticsApp.runtimeconfig.json
+C:\Users\motov\OneDrive\Документы\IntegrationProject\StatisticsApp\bin\Debug\net10.0\StatisticsApp.dll
+C:\Users\motov\OneDrive\Документы\IntegrationProject\StatisticsApp\bin\Debug\net10.0\StatisticsApp.pdb
+C:\Users\motov\OneDrive\Документы\IntegrationProject\StatisticsApp\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\motov\OneDrive\Документы\IntegrationProject\StatisticsApp\obj\Debug\net10.0\StatisticsApp.csproj.AssemblyReference.cache
+C:\Users\motov\OneDrive\Документы\IntegrationProject\StatisticsApp\obj\Debug\net10.0\StatisticsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\motov\OneDrive\Документы\IntegrationProject\StatisticsApp\obj\Debug\net10.0\StatisticsApp.AssemblyInfoInputs.cache
+C:\Users\motov\OneDrive\Документы\IntegrationProject\StatisticsApp\obj\Debug\net10.0\StatisticsApp.AssemblyInfo.cs
+C:\Users\motov\OneDrive\Документы\IntegrationProject\StatisticsApp\obj\Debug\net10.0\StatisticsApp.csproj.CoreCompileInputs.cache
+C:\Users\motov\OneDrive\Документы\IntegrationProject\StatisticsApp\obj\Debug\net10.0\Statisti.A20FD0AE.Up2Date
+C:\Users\motov\OneDrive\Документы\IntegrationProject\StatisticsApp\obj\Debug\net10.0\StatisticsApp.dll
+C:\Users\motov\OneDrive\Документы\IntegrationProject\StatisticsApp\obj\Debug\net10.0\refint\StatisticsApp.dll
+C:\Users\motov\OneDrive\Документы\IntegrationProject\StatisticsApp\obj\Debug\net10.0\StatisticsApp.pdb
+C:\Users\motov\OneDrive\Документы\IntegrationProject\StatisticsApp\obj\Debug\net10.0\StatisticsApp.genruntimeconfig.cache
+C:\Users\motov\OneDrive\Документы\IntegrationProject\StatisticsApp\obj\Debug\net10.0\ref\StatisticsApp.dll
