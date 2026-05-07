@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\motov\\OneDrive\\Документы\\IntegrationProject\\StatisticsApp\\StatisticsApp.csproj": {}
+    "C:\\Users\\motov\\OneDrive\\Документы\\IntegrationProject\\IntegrationProject\\StatisticsApp\\StatisticsApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\motov\\OneDrive\\Документы\\IntegrationProject\\StatisticsApp\\StatisticsApp.csproj": {
+    "C:\\Users\\motov\\OneDrive\\Документы\\IntegrationProject\\IntegrationProject\\StatisticsApp\\StatisticsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\motov\\OneDrive\\Документы\\IntegrationProject\\StatisticsApp\\StatisticsApp.csproj",
+        "projectUniqueName": "C:\\Users\\motov\\OneDrive\\Документы\\IntegrationProject\\IntegrationProject\\StatisticsApp\\StatisticsApp.csproj",
         "projectName": "StatisticsApp",
-        "projectPath": "C:\\Users\\motov\\OneDrive\\Документы\\IntegrationProject\\StatisticsApp\\StatisticsApp.csproj",
+        "projectPath": "C:\\Users\\motov\\OneDrive\\Документы\\IntegrationProject\\IntegrationProject\\StatisticsApp\\StatisticsApp.csproj",
         "packagesPath": "C:\\Users\\motov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\motov\\OneDrive\\Документы\\IntegrationProject\\StatisticsApp\\obj\\",
+        "outputPath": "C:\\Users\\motov\\OneDrive\\Документы\\IntegrationProject\\IntegrationProject\\StatisticsApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\motov\\AppData\\Roaming\\NuGet\\NuGet.Config"

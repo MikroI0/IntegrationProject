@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CeNOH75220A=",
+  "dgSpecHash": "Ylb7HwKeQBw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\motov\\OneDrive\\Документы\\IntegrationProject\\StatisticsApp\\StatisticsApp.csproj",
+  "projectFilePath": "C:\\Users\\motov\\OneDrive\\Документы\\IntegrationProject\\IntegrationProject\\StatisticsApp\\StatisticsApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\motov\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
   ],
