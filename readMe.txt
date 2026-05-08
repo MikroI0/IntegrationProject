@@ -1,18 +1,12 @@
 # Калькулятор статистики (C# + Python)
 
+должен быть скачан NET 10 
+и Python любой не сильно старый
+
 ## Запуск
 
-1. Открыть терминал в **папке проекта** cd (тут актуальный путь)IntegrationProject\StatisticsApp
 
-2. Установить Newtonsoft.Json (один раз): dotnet add package Newtonsoft.Json
-
-3. Собрать проект: dotnet build
-
-4. Запустить программу: dotnet run
-
-в случае !!? taskkill /F /IM StatisticsApp.exe
-
-# 1. Перейти в папку с проектом (туда, где распаковал)
+# 1. Перейти в папку с проектом (туда, где распаковано)
 cd C:\путь\к\папке\StatisticsApp
 
 # 2. Восстановить зависимости
@@ -26,4 +20,6 @@ dotnet build
 
 # 5. Запустить программу
 dotnet run
-https://dotnet.microsoft.com/en-us/download
+
+
+в случае №@%&!!? taskkill /F /IM StatisticsApp.exe

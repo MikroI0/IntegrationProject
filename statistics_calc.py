@@ -1,10 +1,7 @@
 import json
 
-# Функция для вычисления статистики
 def calculate_statistics(numbers):
-    """
-    Принимает список чисел, возвращает словарь с результатами
-    """
+
     if not numbers:
         return {
             "error": "Список чисел пуст",
